@@ -1,1 +1,1 @@
-# WazuhDeployment
+# Wazuh Deployment
